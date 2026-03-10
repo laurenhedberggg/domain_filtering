@@ -4,3 +4,10 @@
 127.0.0.1 mcoc-push.sparxcdn.net
 127.0.0.1 playcontestofchampions.com
 127.0.0.1 store.playcontestofchampions.com
+
+#[adblock rules]
+||mcoc-cdn.net^$important
+||gprod.marvel.sparx.io^$important
+||mcoc-push.sparxcdn.net^$important
+||playcontestofchampions.com^$important
+||store.playcontestofchampions.com^$important

@@ -1,5 +1,11 @@
 [Apple Private DNS]
 127.0.0.1 mask-h2.icloud.com
-127.0.0.1 mask.icloud.com^$important
-127.0.0.1 mask.apple-dns.net^$important
+127.0.0.1 mask.icloud.com
+127.0.0.1 mask.apple-dns.net
 127.0.0.1 mask-api.icloud.com
+
+[adblock rules]
+||mask-h2.icloud.com^$important
+||mask.icloud.com^$important
+||mask.apple-dns.net^$important
+||mask-api.icloud.com^$important

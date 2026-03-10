@@ -1,2 +1,5 @@
 [playok]
 127.0.0.1 playok.com
+
+[adblock rules]
+||playok.com^$important
