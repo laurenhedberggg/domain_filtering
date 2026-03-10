@@ -3,3 +3,4 @@
 
 [adblock rules]
 ||playok.com^$important
+||playok.com^$important
