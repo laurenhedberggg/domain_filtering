@@ -1,0 +1,6 @@
+# [mcoc]
+127.0.0.1 mcoc-cdn.net
+127.0.0.1 gprod.marvel.sparx.io
+127.0.0.1 mcoc-push.sparxcdn.net
+127.0.0.1 playcontestofchampions.com
+127.0.0.1 store.playcontestofchampions.com

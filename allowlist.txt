@@ -1,0 +1,7 @@
+# [invoca.net]
+@@invoca.net^$important
+@@pnapi.invoca.net^$important
+
+# [invocacdn.com]
+@@invocacdn.com^$important
+@@solutions.invocacdn.com^$important
